@@ -13,6 +13,7 @@ module.exports = {
     "value-keyword-case": null,
     "comment-empty-line-before": null,
     "declaration-empty-line-before": null,
+    "declaration-colon-newline-after": null,
     "selector-type-no-unknown": [true, {
       "ignore": ["custom-elements", "default-namespace"],
     }],

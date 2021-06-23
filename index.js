@@ -20,5 +20,6 @@ module.exports = {
     "no-eol-whitespace": [true, {
       "ignore": ["empty-lines"],
     }],
+    "property-disallowed-list": ["gap"]
   },
 }
